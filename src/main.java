@@ -15,6 +15,7 @@ public class main extends javax.swing.JFrame {
     public main() {
         initComponents();
     }
+    
 
     /**
      * This method is called from within the constructor to initialize the form.
